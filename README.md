@@ -6,7 +6,7 @@
 - 서울 공공자전거 따릉이를 활용하여 외국인 대상으로 서울 자전거 여행 및 관광을 홍보하는 사이트.
 - 사용언어 : Java, JavaScript, SQL
 - 사용툴 : Vscode, H2, MySQL, MariaDB, Spring Tools
-- [프로젝트 보고서](data/서울공공자전거 따릉이 여행일정 프로젝트.pdf)
+- [프로젝트 보고서](data/서울공공자전거%20따릉이%20여행일정%20프로젝트.pdf)
 - [ToDoList](ToDoList.md)
 
 ## **주요 라이브러리**
