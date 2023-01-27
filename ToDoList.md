@@ -14,4 +14,4 @@
     + <img src="data/메인화면.gif" width="100" height="100"> <img src="data/회원가입.gif" width="100" height="100"> <img src="data/로그인.gif" width="100" height="100"> <img src="data/대여소.gif" width="100" height="100"> <img src="data/코스-확인.gif" width="100" height="100"> <img src="data/코스-만들기.gif" width="100" height="100"> <img src="data/포럼.gif" width="100" height="100"> <img src="data/sns로그인.gif" width="100" height="100"> 
 + 23.01.25일 ~ 31일
     + To Do : 프로젝트 보고서 작성 및 발표
-    + [프로젝트 보고서](data/서울공공자전거 따릉이 여행일정 프로젝트.pdf)
+    + [프로젝트 보고서](data/서울공공자전거%20따릉이%20여행일정%20프로젝트.pdf)
