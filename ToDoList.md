@@ -9,6 +9,6 @@
     + To Do : 프론트 & 백엔드 개발, 데이터베이스 생성 및 연결
 + 23.01.19일 ~ 20일
     + To Do : AWS 배포
-    + <img src="gif/메인화면.gif" width="150" height="100"> 
+    + <img src="gif/메인화면.gif" width="100" height="100"> <img src="gif/회원가입.gif" width="100" height="100"> <img src="gif/로그인.gif" width="100" height="100"> <img src="gif/대여소.gif" width="100" height="100"> <img src="gif/코스-확인.gif" width="100" height="100"> <img src="gif/코스-만들기.gif" width="100" height="100"> <img src="gif/포럼.gif" width="100" height="100"> <img src="gif/sns로그인.gif" width="100" height="100"> 
 + 23.01.25일 ~ 31일
     + To Do : 프로젝트 보고서 작성 및 발표
