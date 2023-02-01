@@ -7,7 +7,7 @@
     + <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-009.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-010.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-011.jpg" width="100" height="100"> 
 + 22.12.22일 ~ 26일
     + To Do : 프로젝트 화면 설계 및 공공 데이터 활용
-    + <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-013.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-020.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-021.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-022.jpg" width="100" height="100">
+    + <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-013.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-020.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-021.jpg" width="100" height="100"> 
 + 22.12.27일 ~ 23.01.18일
     + To Do : 프론트 & 백엔드 개발, 데이터베이스 생성 및 연결
     + <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-023.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-024.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-025.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-026.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-027.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-028.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-029.jpg" width="100" height="100"> <img src="data/서울공공자전거%20따릉이%20여행일정%20프로젝트-012.jpg" width="100" height="100"> 
